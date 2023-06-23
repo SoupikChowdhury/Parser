@@ -1,0 +1,10 @@
+int main ( int a , char b )
+{
+	int x = 50 ;
+	char ch ;
+	get ch ;
+	put b ;
+	a = ch == b ? x : 50 ;
+	put a ;
+	return 0 ;
+}

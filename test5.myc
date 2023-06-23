@@ -1,0 +1,13 @@
+int main ( char arg , int length )
+{
+	int s = 0 ;
+	int x ;
+	int y ;
+	get x ;
+	get y ;
+	s = x > y ? x : y ;
+	put s ;
+	s = x + y ;
+	put s ;
+	return 0 ;
+}
